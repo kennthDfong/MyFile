@@ -4,7 +4,6 @@
 
 博客地址：http://home.cnblogs.com/u/kennethTechBlog/
 
-https://github.com/nixzhu/dev-blog/blob/master/2014-04-19-grand-central-dispatch-in-depth-part-1.md
 
 http://www.mob.com/  移动开发者服务平台
 
