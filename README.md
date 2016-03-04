@@ -1,4 +1,11 @@
 # notyet
+
+现在开始写一下技术博客，不过质量也许比较低。也没有很深刻的思考，但也当作对自己复习一下学过的一些知识，巩固自己的知识体系！！(ง •̀_•́)ง
+
+博客地址：http://home.cnblogs.com/u/kennethTechBlog/
+
+https://github.com/nixzhu/dev-blog/blob/master/2014-04-19-grand-central-dispatch-in-depth-part-1.md
+
 http://www.mob.com/  移动开发者服务平台
 
 
